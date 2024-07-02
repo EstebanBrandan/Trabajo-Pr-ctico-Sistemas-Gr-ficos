@@ -1,1 +1,1 @@
-# Trabajo-Pr-ctico-Sistemas-Gr-ficos
+# Trabajo-Práctico-Sistemas-Gráficos
